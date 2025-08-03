@@ -1,4 +1,4 @@
-# 📝 Simple To-Do List Web App
+# 📝 Simple To-Do List Web Page
 
 A minimalist To-Do List application built using **HTML**, **CSS**, and **JavaScript**. Users can easily add and remove tasks in real-time through a clean, responsive interface.
 
