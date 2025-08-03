@@ -24,3 +24,39 @@ A minimalist To-Do List application built using **HTML**, **CSS**, and **JavaScr
 
 ## 📂 File Structure
 
+/todo-app/
+│
+├── index.html # Main HTML file
+├── style.css # Optional: external styling
+└── script.js # Optional: if JS is separated
+
+---
+
+## 📌 How to Use
+
+1. Clone this repository or download the ZIP.
+2. Open `index.html` in any web browser.
+3. Type a task in the input field and click **"Add Task"**.
+4. Click ❌ next to a task to delete it.
+
+---
+
+## 📦 Future Improvements
+
+- ✅ Persist tasks using `localStorage`
+- ⏳ Edit tasks feature
+- 🌙 Dark mode toggle
+- 📱 Improved mobile layout
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♂️ Author
+
+**Kartik Sharma**  
+Feel free to contribute or fork this project!
