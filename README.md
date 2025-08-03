@@ -50,11 +50,7 @@ A minimalist To-Do List application built using **HTML**, **CSS**, and **JavaScr
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## 🙋‍♂️ Author
 
